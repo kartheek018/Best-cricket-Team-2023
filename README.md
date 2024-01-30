@@ -6,4 +6,9 @@ Batting: https://www.espncricinfo.com/records/tournament/averages-batting/icc-cr
 
 Points table: https://www.google.com/search?q=world+cup+2023+points+table&oq=world+cup+2023+poi&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDyoAgCwAgA&sourceid=chrome&ie=UTF-8#cobssid=s&sie=lg;/m/0w61w3s;5;/m/021vk;st;fp;1
 
+Libraries: 
+-> pandas
+-> BeautifulSoup
+
 Match Summary:
+
